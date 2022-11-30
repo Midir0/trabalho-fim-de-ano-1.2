@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+    color: aliceblue;
+            background-image: url(./Backgrond\ index2.png);
+            background-size: cover;
+            background-repeat: no-repeat;
+}
+
+.Receita {
+    background-color: rgba(15, 15, 15, 0.774);
+    margin-top: 100px;
+    align-items:baseline;
+    margin-right: 300px;
+    margin: 100px;
+    width: 360px;
+    padding: 20px;
+    border-radius: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    height: 220px;
+    align-items: center;
+    top:150px;
+    left: 475px;
+    position: absolute;
+}
+
+#ingredientes{
+    width: 352px;
+    height: 100px;
+    margin-top:5px;
+}
+
+h1{
+    position: center;
+    text-align: center;
+    margin: 0px;
+    top: 0px;
+    color: rgb(255, 150, 52);
+
+    font-size: 100px;
+}
+
+button {
+    color:rgb(54, 54, 54);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:rgb(45, 45, 45);
+    font-size: 20px;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 32px;
+    background-color: rgb(25, 25, 25);
+    color: rgb(140, 140, 140);
+    text-align: center;
+  }
